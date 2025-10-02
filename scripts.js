@@ -747,3 +747,5 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('🚀 Kuldeep Verma Portfolio - Initialized');
     console.log('💡 Try the Konami Code: ↑ ↑ ↓ ↓ ← → ← → B A');
 });
+
+
